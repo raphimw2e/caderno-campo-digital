@@ -88,7 +88,7 @@ div > h4 {
 
 img {
     margin: 2px;
-    max-height: auto;
+    height: auto;
     max-width: 100%;
 }
 
@@ -106,3 +106,4 @@ table > thead {
     background-color: #C8D9E6;
 
 }
+
